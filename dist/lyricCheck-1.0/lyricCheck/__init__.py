@@ -1,0 +1,1 @@
+from lyricCheck import help, check
