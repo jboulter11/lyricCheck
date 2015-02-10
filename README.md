@@ -1,4 +1,4 @@
-# lyricChecker
+# lyricCheck
 
 Module checks for explicit lyrics in songs and gives a % confidence based on google search results.
 This was done in 8 hours from "I know no Python, what am I doing?" to "This is on the pypi repo."
