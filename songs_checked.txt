@@ -1,0 +1,21 @@
+[statechamps; elevated]: NO INFO
+[vanna; trashmouth]: 0.0% CLEAN
+[transit; the only one]: 100.0% CLEAN
+[transit; saturday sunday]: 100.0% CLEAN
+-------------------------
+[statechamps; elevated]:
+
+[vanna; trashmouth]:
+    [http://www.plyrics.com/lyrics/vanna/trashmouth.html]: NOT CLEAN
+[transit; the only one]:
+    [http://www.lyricsmode.com/lyrics/t/transit/the_only_one.html]: CLEAN
+    [http://www.plyrics.com/lyrics/transit/theonlyone.html]: CLEAN
+    [http://www.azlyrics.com/lyrics/transit/theonlyone.html]: CLEAN
+    [http://www.lyricsfreak.com/t/transit/the+only+one_21088992.html]: CLEAN
+    [http://www.songonlyrics.net/transit-the-only-one-lyrics]: CLEAN
+[transit; saturday sunday]:
+    [http://www.plyrics.com/lyrics/transit/saturdaysunday.html]: CLEAN
+    [http://www.lyricsmode.com/lyrics/t/transit/saturday_sunday.html]: CLEAN
+    [http://www.azlyrics.com/lyrics/transit/saturdaysunday.html]: CLEAN
+    [http://www.lyricsfreak.com/t/transit/saturday+sunday_21089367.html]: CLEAN
+    [http://www.elyricsworld.com/saturday,_sunday_lyrics_transit.html]: CLEAN
